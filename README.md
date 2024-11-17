@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Daniele
 [![](https://visitcount.itsvg.in/api?id=danieffe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-👨‍💻 Master Degree student in Automation Engineering and Robotics<br> Apple Developer Academy alumni<br>🦾 Robotics enthusiastic<br>💬 Open to collab
+👨‍💻 Master Degree student in Automation Engineering and Robotics<br>👾 Apple Developer Academy alumni<br>🦾 Robotics enthusiastic<br>💬 Open to collab
 
 
 ### 🌐 Socials:
